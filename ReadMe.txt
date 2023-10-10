@@ -1,1 +1,1 @@
-This repo used for cs121 projects.
+This repo used for cs121 projects and exams.
